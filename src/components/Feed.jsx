@@ -18,6 +18,8 @@ const Feed = () => {
     );
   }, [selectedCategory]);
 
+  console.log(process.env.REACT_APP_RAPID_API_KEY);
+
   return (
     <Stack sx={{ flexDirection: { sx: "column", md: "row" } }}>
       <Box
