@@ -1,2 +1,1 @@
-# youtube_clone
-# youtube_project
+YouTube Clone made using React.js, Material UI and RapidAPI
